@@ -1,4 +1,5 @@
-[README.md](https://github.com/user-attachments/files/35201042/README.md)# Hi, I'm Shanzay 👋
+[README.md](https://github.com/user-attachments/files/35201042/README.md)
+# Hi, I'm Shanzay 👋
 
 I'm a cybersecurity student at **Seneca Polytechnic** (Honours Bachelor of Information Technology – Cybersecurity), interested in **security operations** and **IT infrastructure**.
 
